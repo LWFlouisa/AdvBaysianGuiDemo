@@ -1,0 +1,19 @@
+{
+  // Game Folder
+  "gameFolder": ".",
+
+  // Window Title
+  "windowTitle": "AdVBaysian GUI Demo",
+
+  // Data
+  "dataPathOrg": "Aluca Studios",
+  "dataPathApp": "IMPUnit",
+
+  // Assets
+  "iconPath":      "_icons/favicon.ico",
+  "customScript":  "_scripts/hello.rb",
+  "midiSoundFont": "_audio/BGM/GMGSx.sf2",
+
+  // Executable Name
+  "execName": "AdvBaysian", 
+}
