@@ -1,0 +1,6 @@
+<h2>Wed<em>May</em>24<em>08:39:12</em>AM<em>CDT</em>2023</h2>
+
+<p>This is a picture of a square.</p>
+
+<p>This is a picture of a circle.
+This is a picture of a triangle.</p>
